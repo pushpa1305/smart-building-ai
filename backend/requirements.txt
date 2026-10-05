@@ -1,0 +1,17 @@
+Flask
+Flask-CORS
+Flask-SQLAlchemy
+
+fastapi
+uvicorn[standard]
+pydantic
+python-dotenv
+
+SQLAlchemy
+psycopg2-binary
+
+pandas
+numpy
+scikit-learn
+
+google-generativeai
